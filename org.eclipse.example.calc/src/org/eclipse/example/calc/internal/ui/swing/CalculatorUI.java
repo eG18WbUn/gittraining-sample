@@ -140,5 +140,5 @@ public class CalculatorUI extends JFrame implements TextProvider,
 	public String getDisplayText() {
 		return display.getText();
 	}
-
+// ein Kommentar
 }
